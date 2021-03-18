@@ -1,1 +1,1 @@
-web: bash run_bot.sh
+web: bash run_both.sh
